@@ -5,9 +5,9 @@
 - 📫 You can contact me via mail at hi@shrutisona.com.
 - 💬 You can WhatsApp me on 7289961441.
 **Connect with me**
-  [Instagram](https://www.instagram.com/shrutisonasharma/)
- [LinkedIn](https://www.linkedin.com/in/shrutisonasharma/)
-  [Behance](https://www.behance.net/shrutisonasharma/)
+- [Instagram](https://www.instagram.com/shrutisonasharma/)
+- [LinkedIn](https://www.linkedin.com/in/shrutisonasharma/)
+- [Behance](https://www.behance.net/shrutisonasharma/)
   
 <!---
 shrutisonasharma/shrutisonasharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
