@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning WordPreess.
 - 📫 You can contact me via mail at hi@shrutisona.com.
 - 💬 You can WhatsApp me on 7289961441.
-**Connect with me**
+- **Connect with me**
 - [Instagram](https://www.instagram.com/shrutisonasharma/)
 - [LinkedIn](https://www.linkedin.com/in/shrutisonasharma/)
 - [Behance](https://www.behance.net/shrutisonasharma/)
