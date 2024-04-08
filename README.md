@@ -4,7 +4,11 @@
 - 🌱 I’m currently learning WordPreess.
 - 📫 You can contact me via mail at hi@shrutisona.com.
 - 💬 You can WhatsApp me on 7289961441.
-
+**Connect with me**
+  https://www.instagram.com/shrutisonasharma/
+  https://www.linkedin.com/in/shrutisonasharma/
+  https://www.behance.net/shrutisonasharma/
+  
 <!---
 shrutisonasharma/shrutisonasharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
